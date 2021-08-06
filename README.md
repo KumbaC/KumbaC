@@ -12,7 +12,7 @@
   <img align="center" alt="KumbaC-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="KumbaC-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="KumbaC-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="right" alt="KumbaC" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F9Wmb&psig=AOvVaw1ulRAn6UGeAaI2IvT6QtJm&ust=1628342797239000&source=images&cd=vfe&ved=0CAsQjhxqFwoTCNiKk4nAnPICFQAAAAAdAAAAABAD">
+  <img align="right" alt="KumbaC" src="https://www.gifsanimados.org/img-computadora-y-ordenador-imagen-animada-0017-44101.htm">
 </div>
   
   ##
