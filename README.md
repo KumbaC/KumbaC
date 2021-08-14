@@ -25,6 +25,6 @@
   <a href = "mailto:antoniolenovo115@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kumbac" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://p4.wallpaperbetter.com/wallpaper/776/233/240/dual-monitor-multi-screen-wallpaper-preview.jpg)
+  ![Snake animation](https://p4.wallpaperbetter.com/wallpaper/210/925/103/ultrawide-superultrawide-hd-wallpaper-preview.jpg)
  
 </div>
