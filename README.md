@@ -9,6 +9,7 @@
   <img align="center" alt="KumbaC-Cake" heighPull requestst="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cakephp/cakephp-original.svg">
   <img align="center" alt="KumbaC-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="KumbaC-Ruby" height="30" width="40" src="https://www.svgrepo.com/show/354252/rails.svg">
+ <img align="center" alt="KumbaC-Ruby" height="30" width="40" src="https://www.svgrepo.com/show/354252/rails.svg](https://www.svgrepo.com/show/354298/ruby.svg)">
   
  <img align="center" alt="KumbaC-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="KumbaC-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
