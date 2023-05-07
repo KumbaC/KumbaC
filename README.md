@@ -22,6 +22,8 @@
   <img align="center" alt="KumbaC-HTML" height="30" width="40" src="https://www.svgrepo.com/show/353657/django-icon.svg">
   <img align="center" alt="KumbaC-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="KumbaC-Ubuntu" height="30" width="40" src="https://www.svgrepo.com/show/355338/ubuntu.svg">
+  <img align="center" alt="KumbaC-Ubuntu" height="30" width="40" src="https://www.svgrepo.com/show/475695/windowsphone-color.svg">
+ 
   <img align="right" alt="KumbaC" src="https://www.gifsanimados.org/data/media/56/computadora-y-ordenador-imagen-animada-0523.gif">
 </div>
   
