@@ -1,8 +1,8 @@
 ## ¡Hola! Yo soy Antonio Puerta
  <div>
   <a href="https://github.com/KumbaC">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=KumbaC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumbaC&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=KumbaC&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=es"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumbaC&layout=compact&langs_count=12&theme=transparent&locale=es"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="KumbaC-PHP" height="30" width="40" src="https://www.svgrepo.com/show/349474/php.svg">
@@ -15,7 +15,7 @@
   <img align="center" alt="KumbaC-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="KumbaC-Js" height="50" width="40" src="https://www.svgrepo.com/show/354118/nodejs.svg">
  <img align="center" alt="KumbaC-Js" height="50" width="40" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg">
-  <img align="center" alt="KumbaC-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="KumbaC-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="KumbaC-CSS" height="30" width="40" src="https://www.svgrepo.com/show/353498/bootstrap.svg">
   <img align="center" alt="KumbaC-CSS" height="50" width="40" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
   <img align="center" alt="KumbaC-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
