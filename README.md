@@ -24,7 +24,7 @@
   <img align="center" alt="KumbaC-Ubuntu" height="30" width="40" src="https://www.svgrepo.com/show/355338/ubuntu.svg">
   <img align="center" alt="KumbaC-Ubuntu" height="30" width="40" src="https://www.svgrepo.com/show/475695/windowsphone-color.svg">
  
-  <img align="right" alt="KumbaC" height="150" width="180" src="https://media4.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47jgesd36ozqua7irllip0zev5aho3lqrt862cxlmh&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+  <img align="right" alt="KumbaC" height="120" width="160" src="https://media4.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47jgesd36ozqua7irllip0zev5aho3lqrt862cxlmh&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 </div>
   
   ##
