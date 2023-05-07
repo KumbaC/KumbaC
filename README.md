@@ -1,7 +1,7 @@
 ## ¡Hola! Yo soy Antonio Puerta
  <div>
   <a href="https://github.com/KumbaC">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=KumbaC&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=es"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=KumbaC&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=es"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumbaC&layout=compact&langs_count=12&theme=transparent&locale=es"/>
 </div>
 <div style="display: inline_block"><br>
