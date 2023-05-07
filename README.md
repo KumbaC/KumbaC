@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="KumbaC-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="KumbaC-Cake" heighPull requestst="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cakephp/cakephp-original.svg">
-  <img align="center" alt="KumbaC-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/laravel/laravel-plain-wordmark.svg">
+  <img align="center" alt="KumbaC-Laravel" height="30" width="40" src="https://www.svgrepo.com/show/353985/laravel.svg">
   <img align="center" alt="KumbaC-Ruby" height="30" width="40" src="https://www.svgrepo.com/show/354298/ruby.svg">
   <img align="center" alt="KumbaC-Ruby" height="50" width="40" src="https://www.svgrepo.com/show/354252/rails.svg">
  
