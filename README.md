@@ -14,6 +14,7 @@
   
   <img align="center" alt="KumbaC-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="KumbaC-Js" height="50" width="40" src="https://www.svgrepo.com/show/354118/nodejs.svg">
+ <img align="center" alt="KumbaC-Js" height="50" width="40" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg">
   <img align="center" alt="KumbaC-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="KumbaC-CSS" height="30" width="40" src="https://www.svgrepo.com/show/353498/bootstrap.svg">
   <img align="center" alt="KumbaC-CSS" height="50" width="40" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
