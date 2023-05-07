@@ -5,8 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumbaC&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="KumbaC-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="KumbaC-Cake" heighPull requestst="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cakephp/cakephp-original.svg">
+  <img align="center" alt="KumbaC-PHP" height="30" width="40" src="https://www.svgrepo.com/show/349474/php.svg">
+  <img align="center" alt="KumbaC-CakePHP" heighPull requestst="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cakephp/cakephp-original.svg">
   <img align="center" alt="KumbaC-Laravel" height="30" width="40" src="https://www.svgrepo.com/show/353985/laravel.svg">
   <img align="center" alt="KumbaC-Ruby" height="30" width="40" src="https://www.svgrepo.com/show/354298/ruby.svg">
   <img align="center" alt="KumbaC-Ruby" height="50" width="40" src="https://www.svgrepo.com/show/354252/rails.svg">
